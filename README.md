@@ -4,7 +4,7 @@
 ### Olá! 👋 
 Eu sou Rafael Bittencourt, muito prazer!
 
-Sou físico 🎓 trabalhando em Bom Jesus da Lapa - Ba, Brasil.
+Sou físico 🎓 trabalhando na Stack Tecnologias.
 
 ### Agora
 
