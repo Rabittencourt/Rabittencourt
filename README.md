@@ -8,8 +8,7 @@ Sou físico 🎓 trabalhando na Stack Tecnologias.
 
 ### Agora
 
-- 🎓 Lecionando cursos de física, matemática e algoritmos para alunos de engenharia.
-- 📊 📈 Procuro recolocação como júnior em Data Science, Data Analist ou Data Engineer
+- 📊 📈 Atuando como Cientista de Dados pela Stack Tecnologias
 - 💞️ Procuro colaborarações em Projetos de Ciência de Dados
 
 ### Biografia
@@ -24,12 +23,12 @@ Sou físico 🎓 trabalhando na Stack Tecnologias.
 ### Hello, there. 👋  
 I’m Rafael Bittencourt, nice to meet you!
 
-I'm a physicist :mortar_board: working in Bom Jesus da Lapa - Ba, Brazil.
+I'm a physicist :mortar_board: working in Stack Tecnologias
 
 ### Now
 
-- :mortar_board: Teaching physics, mathematics and algorithms courses to engineer's students.
-- :bar_chart: :chart_with_upwards_trend: I’m looking for a job position as junior in Data Science, Data analist or Data Engineer
+
+- :bar_chart: :chart_with_upwards_trend: Working as Data Scientist at Stack Tecnologias
 - 💞️ I’m looking to collaborate on Data Science Projects
 
 
