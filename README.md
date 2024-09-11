@@ -18,6 +18,8 @@ Sou físico 🎓 trabalhando na Stack Tecnologias.
 - ⚡️ Curiosidades: Grande fã de O Senhor dos Anéis e Harry Potter
 - 📧 Contato: almeidabittencourt@gmail.com
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Hello, there. 👋  
