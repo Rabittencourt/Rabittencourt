@@ -2,7 +2,7 @@
 ### Hello, there. 👋  
 I’m Rafael Bittencourt, nice to meet you!
 
-I'm a physicist :mortar_board: working in Stack Tecnologias
+I am a PhD student in Computational Modeling and Industrial Technology at CIMATEC, with experience in Data Science applied to solving complex problems. I work as a Data Scientist at Stack Tecnologias and have an academic background with a bachelor's and master's degree in Physics. In addition, I am dedicated to continuous learning and collaborative work.
 
 ### Now
 
