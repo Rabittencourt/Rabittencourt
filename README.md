@@ -13,7 +13,7 @@ I am a PhD in Computational Modeling and Industrial Technology at CIMATEC, with 
 
 ### Bio
 
-- 🌱 Learning all about learning Python :snake:, SQL and Data Science :bar_chart:
+- 🌱 Learning all about Python :snake:, SQL and Data Science :bar_chart:
 - 👀 I’m interested in Data Science, :telescope: physics, :movie_camera: movies,  :fork_and_knife: food and :video_game: games
 - ⚡️Fun facts: Huge fan of Lord of The Rings and Harry Potter
 - :email: How to reach me almeidabittencourt@gmail.com
